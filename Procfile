@@ -1,1 +1,1 @@
-web:    java -Dserver.port=$PORT -jar happiness-index-application/target/*.jar
+web:    java -Dserver.port=$PORT -jar ninatasks/target/*.jar
